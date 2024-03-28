@@ -1,7 +1,7 @@
 # Shoplive Task - Junior
 
 ```
-git clone https://github.com/shoplive/shoplive-frontend-task-2.git
+git clone https://github.com/shoplive/shoplive-frontend-task-swipe.git
 ```
 
 ### 프로젝트 내부 index.html 파일에 과제 내용이 있습니다.
